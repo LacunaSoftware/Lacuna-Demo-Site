@@ -1,0 +1,16 @@
+name: Singer-Demo
+id: ari:cloud:compass:a2e680e8-84b4-492b-b81a-63ccf54df4ee:component/08293dd5-9ad1-4ed5-b339-095a7626ef2b/81cc4ae3-bc7c-4e21-8572-65ce4c538056
+description: Demo with Signer Engine
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/LacunaSoftware/Singer-Demo
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
